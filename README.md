@@ -18,9 +18,7 @@ Contains the Jupyter notebooks required to execute the preprocessing, inference,
 * **`2 Data Analysis.ipynb`**: Aggregates the raw JSON inference data, utilizes LLM-as-a-judge scoring, and generates the statistical visualizations (dumbbells, heatmaps) presented in the study.
 * **`3 Distribution of the attention.ipynb`**: Handles the geometric image perturbations, executes inference on the flipped/rotated datasets, and merges the results to quantify orientation effects.
 
-### 3. `Labels/`
-Contains the ground-truth annotations required for the LLM-as-a-judge evaluation.
-* **`labels.json`**: The canonical reference file containing the acceptable answers for each Image ID in the main corpus.
+
 
 ## Getting Started
 
