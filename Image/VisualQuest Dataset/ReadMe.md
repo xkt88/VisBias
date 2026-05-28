@@ -1,6 +1,6 @@
 # VisualQuest Dataset
 
-The VisualQuest dataset is a benchmark designed to rigorously evaluate multimodal large language models (MLLMs) on abstract visual reasoning tasks. It tests reasoning capabilities that require the integration of symbolic, cultural, and linguistic knowledge. Unlike existing benchmarks focused on realistic image classification or direct captioning, this corpus comprises 3,551 non-photographic, stylized images.
+This folder utilizes the VisualQuest dataset, originally introduced by Xiao et al. (2025), to rigorously evaluate multimodal large language models (MLLMs) on abstract visual reasoning tasks. It tests reasoning capabilities that require the integration of symbolic, cultural, and linguistic knowledge. Unlike existing benchmarks focused on realistic image classification or direct captioning, this corpus comprises 3,551 non-photographic, stylized images.
 
 ---
 
@@ -43,6 +43,6 @@ Each image in the dataset is stored in a dictionary-like structure, utilizing th
 
 ## Reference
 
-If you utilize this dataset in your research, please cite the following paper:
+This dataset is sourced from the following publication:
 
 > Xiao K, Yang L, Tulajiang P, et al. VisualQuest: A Benchmark for Abstract Visual Reasoning in MLLMs[C]//Chinese Conference on Pattern Recognition and Computer Vision (PRCV). Singapore: Springer Nature Singapore, 2025: 414-428.
